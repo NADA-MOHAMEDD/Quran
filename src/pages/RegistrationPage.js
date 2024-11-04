@@ -6,6 +6,7 @@ import 'tailwindcss/tailwind.css';
 const RegistrationPage = () => {
   return (
     <>
+    {/* ////// */}
     <div className="h-screen flex items-center justify-center bg-green-700">
       <div className="w-full h-full flex flex-col md:flex-row bg-white md:bg-transparent">
         {/* Left Section - Form Only on Small and Medium Screens */}
